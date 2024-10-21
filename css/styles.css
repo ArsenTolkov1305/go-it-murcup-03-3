@@ -237,10 +237,15 @@ li {
     padding-top: 72px;
     display: flex;
     justify-content: center;
+    gap: 24px;
 }
 
 .testsixty {
     background-color: #FFFFFF;
+    box-sizing: border-box;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background-color: #FFFFFF;
+        justify-content: center;
 }
 
 .container {
@@ -250,6 +255,8 @@ li {
 .test77 {
     display: flex;
     align-items: baseline;
+    width: 1158px;
+    padding: 0 15px 0 15px;
 }
 
 .li-first {
@@ -287,12 +294,15 @@ li {
     display: flex;
     background-color: #F4F4FD;
     gap: 24px;
+    justify-content: center;
 }
 
 .divs-test {
     box-sizing: border-box;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
 }
 
 .four-section-p {
@@ -314,4 +324,14 @@ li {
 
 .secret-li {
     width: calc((100% - 48px) / 3);
+}
+img {
+    display: block;
+}
+.header {
+    border-bottom: 1px solid #e7e9fc
+}
+.navig {
+    display: flex;
+    align-items: center;
 }
