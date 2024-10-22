@@ -211,6 +211,7 @@ li {
     letter-spacing: 0.02em;
     color: #2e2f42;
     line-height: 1.5;
+    padding: 24px 0;
 }
 
 .class-of-the-ul:focus {
