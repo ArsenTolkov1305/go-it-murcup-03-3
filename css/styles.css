@@ -349,3 +349,6 @@ img {
 .section-two {
     padding: 120px 0;
 }
+.visually-hidden {
+    display: none;
+}
