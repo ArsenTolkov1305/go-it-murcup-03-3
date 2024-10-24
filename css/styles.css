@@ -64,6 +64,9 @@ a:hover {
     padding: 16px 32px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     transition: 0.4s;
+    min-width: 169px;
+    height: 56px;
+    border: none;
 }
 
 .button:hover {
