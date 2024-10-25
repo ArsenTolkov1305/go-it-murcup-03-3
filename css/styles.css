@@ -256,6 +256,7 @@ li {
         background-color: #FFFFFF;
         justify-content: center;
     width: calc((100% - 72px) / 4);
+    
 }
 
 .container {
