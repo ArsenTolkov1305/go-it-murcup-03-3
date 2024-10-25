@@ -350,11 +350,5 @@ img {
     padding: 120px 0;
 }
 .herz.visually-hidden {
-    display: none;
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    white-space: nowrap;
-    overflow: hidden;
+    visibility: hidden
 }
