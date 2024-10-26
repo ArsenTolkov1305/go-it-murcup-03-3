@@ -329,7 +329,7 @@ img {
 }
 .navig {
     display: flex;
-    text-align: center;
+    align-items: center;
 }
 .section-two {
     padding: 120px 0;
