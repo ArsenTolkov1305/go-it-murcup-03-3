@@ -263,7 +263,6 @@ li {
 }
 
 .container {
-    display: flex;
     width: 1158px;
     padding: 0 15px 0 15px;
     margin: 0 auto;
@@ -376,10 +375,14 @@ img {
     padding-bottom: 120px;
 }
 .appscontainer {
-    padding: 32px, 16px;
+    padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
 }
 .strategy {
     margin-bottom: 8px;
 } 
+ul {
+    padding-left: 0;
+    margin: 0;
+}
