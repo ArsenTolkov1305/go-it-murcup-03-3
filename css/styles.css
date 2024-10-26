@@ -67,6 +67,7 @@ a:hover {
     min-width: 169px;
     height: 56px;
     border: none;
+    display: block;
 }
 
 .button:hover {
