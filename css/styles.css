@@ -308,8 +308,8 @@ li {
     justify-content: center;
 }
 .bankingapp {
-    margin-bottom: 8px;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .secret-ul {
@@ -329,7 +329,7 @@ img {
 }
 .navig {
     display: flex;
-    align-items: center;
+    text-align: center;
 }
 .section-two {
     padding: 120px 0;
